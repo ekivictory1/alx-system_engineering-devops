@@ -1,1 +1,4 @@
-This is ALX System Engineering Devops Repository
+# alx-system_engineering-devops
+
+This project demonstrates the most commonly used bash shell commands
+for carrying out basic operations.
