@@ -45,7 +45,7 @@ In this project, I learned about handling process ID's and signals in Bash with 
   * Deletes the file `/var/run/myscript.pid` and terminates itself upon receiving the `SIGQUIT` or `SIGTERM` signal.
 
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg)
+![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg)
 
 * **10. Manage my process**
   * [manage_my_process](./manage_my_process): Bash script that writes `I am alive!` to the file `/tmp/my_process` indefinitely.
