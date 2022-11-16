@@ -1,6 +1,14 @@
 # Networking basics #0
 
-This project was the first of two introducing networking concepts. In this project, I answered a few quiz-like questions and wrote a couple bash scripts while learning about the OSI model, LAN and WAN networks, and TCP/UDP data transfer protocols.
+This project was the first of two introducing networking concepts. 
+learning about the OSI model, LAN and WAN networks, and TCP/UDP data transfer protocols.
+
+![alt text](https://www.nhnepa.com/Portals/60/EasyDNNnews/163037/img-networking-basics.jpg)
+
+![alt text](https://www.tutorialspoint.com/basics_of_computer_science/images/computer_networking.jpg)
+
+
+
 
 ## Tasks :page_with_curl:
 

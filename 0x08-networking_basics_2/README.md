@@ -2,6 +2,10 @@
 
 In this project, I continued to learn about IP addresses while practicing manipulating them with Bash scripts.
 
+![alt text](https://www.nhnepa.com/Portals/60/EasyDNNnews/163037/img-networking-basics.jpg)
+
+![alt text](https://systemzone.net/wp-content/uploads/2017/02/Computer-Networking-Basic-Terms.jpg)
+
 ## Tasks :page_with_curl:
 
 * **0. Change your home IP**
